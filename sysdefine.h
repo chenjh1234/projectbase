@@ -12,9 +12,13 @@ using namespace std;
 #include <QString>
 
 #define INSTALL_HOME "GEOSEIS" //envVAR of installation
-#define DATA_VERSION "1.01"
+//#define DATA_VERSION "1.01"
+#define DATA_VERSION "1.11"//2018.12
 #define DIR_CONFIG "config"
 #define DIR_DOC "doc"
+#define DIR_MOD "mod"
+#define DIR_LIB "lib"
+#define DIR_INCLUDE "include"
 
 #ifdef WIN32
 #define SLASH "\\"
